@@ -1,2 +1,2 @@
 # WX
-In order to test and use 
+使用图灵机器人做公众号的自动回复，并外加图像数字英文识别功能
